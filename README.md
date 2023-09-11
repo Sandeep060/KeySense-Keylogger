@@ -1,10 +1,4 @@
 # KeySense-Keylogger
-## What is Keylogger ?
-
-_The action of recording (logging) the keys struck on a keyboard, often discreetly, so that the person using the keyboard is unaware that their activities are being observed is known as keystroke logging, also known as keylogging or keyboard capture. The person who is running the logging program can then obtain the data. Keylogger is most often used to steal passwords and other confidential information._
-
-_Even Microsoft has openly confirmed that the final version of Windows 10 features a built-in keylogger “to improve typing and writing functions.”_
-
 # Keylogger & Information Security Tester
 
 **Capture Keyboard, Screenshot, and Microphone Inputs, and Securely Transmit Them to Your Designated Email Address. This project serves the purpose of conducting comprehensive security assessments on information systems.**
