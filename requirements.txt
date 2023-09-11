@@ -1,0 +1,6 @@
+numpy==1.21.0
+pyscreenshot==0.6.3
+pynput==1.7.3
+sounddevice==0.4.1
+soundfile==0.10.3.post1
+pyaudio==0.2.11
