@@ -22,13 +22,13 @@ This Python script is designed for information security professionals and ethica
 
 **No installation required, just run the script.**
 
-![GitHub](https://github.com/aydinnyunus/WifiPassword-Stealer/blob/master/images/Adsız.png)
+![GitHub](https://github.com/Sandeep060/KeySense-Keylogger/blob/main/images/email_mailtrappng.png)
 
 ## Usage
 
 1. **Create an account on "https://mailtrap.io/" using a temporary email.**
 
-![GitHub](https://github.com/aydinnyunus/WifiPassword-Stealer/blob/master/images/dene.png?raw=true)
+![GitHub](https://github.com/Sandeep060/KeySense-Keylogger/blob/main/images/mailtrap.png)
 
 2. **Set your SMTP USERNAME and SMTP PASSWORD in "keylogger.py".**
 
